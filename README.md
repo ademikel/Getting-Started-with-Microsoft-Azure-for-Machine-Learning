@@ -3,3 +3,5 @@
 A workshop on how to get started with Machine Learning on Microsoft Azure
 
 Link to the video: https://youtu.be/N_rRk3TND2E
+
+Check out the Slides also
